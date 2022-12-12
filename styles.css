@@ -1,3 +1,9 @@
+img {
+    height: auto;
+    width: 250px;
+}
+
 .header {
-    color: red;
+    color: blue;
+    background-color: lightblue;
 }
